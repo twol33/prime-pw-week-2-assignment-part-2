@@ -129,12 +129,18 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
+// FIX - colorOne - should be 'blue'
 let colorOne = 'red';
+
+// FIX - colorTwo - should be 'red'
 let colorTwo = 'blue';
+
 let mix = true;
 
+// FIX - colorTwo - should also be added in and equal 'purple'
 if (mix === true) {
   colorOne = 'purple';
+
 }
 */
 
@@ -146,6 +152,7 @@ if (mix === true) {
 let temp = 40;
 const time = 4;
 
+//FIX - && - shoul be in place of "||"
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
@@ -156,9 +163,11 @@ if (temp > 39 || time >= 4) {
 // -- it is, so we console.log 'enter'.
 
 /*
+//FIX - let minAge - is correct to indicate a variable.
 let age = 21;
 const minAge = 21;
 
+//FIX - >= - should be indicator for greater than or equal. console.logs should be in reversed order.
 if(minAge <= age) {
   console.log('no entry');
 } else {
