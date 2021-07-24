@@ -26,10 +26,9 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-//You are creating a variable in which the variable "number" is equal to "1"
-// The code is adding to the variable "number" in increments. Should be in increments of 1.
-// "if" statement indicating that if the number is greater than or equal to 1, it should show a message of "yes" in console
-//
+// we make a variable calle "name" and set it to "Dane"
+// we check if the name is exactly "Mary", it did not match so
+// we console.log 'How fo you do?'
 
 //CODE
 /*
@@ -45,10 +44,11 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// You are creating a variable in which the variable "name" is equal to "Dane"
-// "if" statement indicating that if "name" equals "Mary" then it should show "Hi, Mary" in console,
-// if the "name" input is anything else then, "How do you do?" should be the message generated.
+// we create a variable name "secret", and a variable named "code" that equals "123"
+// the code is exactly "123" so we get 'secret'='super', and 'code' results in "246"
+// we console.log 'secret'
 //
+
 
 //CODE
 /*
@@ -70,9 +70,8 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
+// we are creating variables of "isStudent" that equals "true", "age" that equals '34', and 'zip' that equals '55407'
+// we check that "isStudent" is exactly true so we console log ' welcome to prime'
 //
 
 //CODE
