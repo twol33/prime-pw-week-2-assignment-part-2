@@ -45,9 +45,9 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
+// You are creating a variable in which the variable "name" is equal to "Dane"
+// "if" statement indicating that if "name" equals "Mary" then it should show "Hi, Mary" in console,
+// if the "name" input is anything else then, "How do you do?" should be the message generated.
 //
 
 //CODE
